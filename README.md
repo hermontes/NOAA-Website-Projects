@@ -8,12 +8,12 @@ I was part of the Web Team that was responsbile for tranforming these major Sant
 - https://channelislands.noaa.gov/visit/
 - https://thunderbay.noaa.gov/shipwrecks/
 
+This is the site I created for Get Into Your Sanctuary annual magazine.
+- https://sanctuaries.noaa.gov/magazine/giys/
 
 This is an example of a monthly collection I was tasked of creating, provided with images and materials from the content team. 
 - https://sanctuaries.noaa.gov/education/teachers/ocean-sound/
 
-This is the site I created for Get Into Your Sanctuary annual magazine.
-- https://sanctuaries.noaa.gov/magazine/giys/
 
 
 Every year there's a Marine Art Contest and for 2019, I created a site that announced the winners along with their art from all the differenct categories.
