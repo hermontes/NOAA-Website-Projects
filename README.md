@@ -9,9 +9,9 @@ I was part of the Web Team that was responsbile for tranforming these major Sant
 - https://thunderbay.noaa.gov/shipwrecks/
 
 This is the site I created for Get Into Your Sanctuary annual magazine.
-- https://sanctuaries.noaa.gov/magazine/giys/
+- [https://sanctuaries.noaa.gov/magazine/giys/](https://sanctuaries.noaa.gov/magazine/giys/boating-happens-here.html)
 
-This is an example of a monthly collection I was tasked of creating, provided with images and materials from the content team. 
+This is an example of a monthly collection I designed and implemented:
 - https://sanctuaries.noaa.gov/education/teachers/ocean-sound/
 
 
